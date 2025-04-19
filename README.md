@@ -64,4 +64,6 @@ print("Answer: ", result["result"])
 ![435220924-0bd855e1-9851-4411-848b-5ee02b4730c1](https://github.com/user-attachments/assets/1efb2ea0-6925-4fc1-8c1a-b33fa79d7aac)
 
 ### RESULT:
-Prompt: A structured prompt template was designed to pass the document content and user query to the language model. Model: OpenAI's GPT model was used to process the input data and provide an answer based on the document's content. Output Parsing: The model's output is returned as the answer to the query, ensuring that it provides relevant responses based on the content extracted from the PDF.
+Prompt: A structured prompt template was designed to pass the document content and user query to the language model. 
+Model: OpenAI's GPT model was used to process the input data and provide an answer based on the document's content. 
+Output Parsing: The model's output is returned as the answer to the query, ensuring that it provides relevant responses based on the content extracted from the PDF.
